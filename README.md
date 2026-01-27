@@ -38,7 +38,8 @@ WorldEnviromentに適用すると、全てのカメラの描写時に呼び出�
 <img width="639" height="503" alt="image" src="https://github.com/user-attachments/assets/56707e88-5959-4aca-bb5d-7406ff1e4429" />
 
 ### 要素を追加を押す
-<img width="516" height="405" alt="image" src="https://github.com/user-attachments/assets/8dc6c7a8-a689-44cb-b899-6bfa5c73fac3" />
+<img width="1650" height="789" alt="image" src="https://github.com/user-attachments/assets/239f577a-687b-4627-a015-83ec1f8869d5" />
+
 
 ### 「空」をクリック、気になるクラスを選択
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3d4e8fe1-637f-415b-bef4-6665ce14570c" />
