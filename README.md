@@ -12,19 +12,19 @@ Camera3Dに適用すると、そのカメラの描写時に、任意の描写タ
 
 WorldEnviromentに適用すると、全てのカメラの描写時に呼び出されるようになる。と思う。
 # 使い方
-## 2つのコードをプロジェクトのルート直下にぶち込む
-## プロジェクト → ツール → C# → Create c# solution
+## 0. 使いたいコードをプロジェクトの任意の場所に追加
+## 1. プロジェクト → ツール → C# → Create c# solution
 <img width="899" height="516" alt="image" src="https://github.com/user-attachments/assets/2620d437-639b-42f0-90d2-aa24231806c8" />
 
-## 新しく追加されたトンカチマーク🔨を押す
+## 2. 新しく追加されたトンカチマーク🔨を押す
 <img width="740" height="341" alt="image" src="https://github.com/user-attachments/assets/fa4b6707-b6a4-44a6-b19d-f085e94e7382" />
 
-## WorldEnviromentを作成する
+## 3. WorldEnviromentを作成する
 <img width="488" height="666" alt="image" src="https://github.com/user-attachments/assets/3810c25e-634f-48ba-8d82-4751df0fdeef" />
 
 <img width="930" height="741" alt="image" src="https://github.com/user-attachments/assets/0cd20f4c-a6f4-45a8-b665-1d2ed174ada9" />
 
-## WorldEnviroment - Compositor 
+## 4. WorldEnviroment - Compositor 
 ###「空」をクリック
 <img width="1241" height="1079" alt="image" src="https://github.com/user-attachments/assets/48ef1c77-facc-4464-8d9e-0677913fc6ca" />
 
