@@ -31,7 +31,7 @@ WorldEnviromentに適用すると、全てのカメラの描写時に呼び出�
 ### 新しいのを作る
 <img width="553" height="491" alt="image" src="https://github.com/user-attachments/assets/4a21e74c-5099-4370-a16f-38f69c01e6b8" />
 
-### 「空」だった場所をクリック
+###  「空」だった場所をクリック
 <img width="675" height="600" alt="image" src="https://github.com/user-attachments/assets/1e664b17-8719-4052-8a40-8dc2876c0147" />
 
 ### CompositorEffectの右欄をクリック
