@@ -40,5 +40,5 @@ WorldEnviromentに適用すると、全てのカメラの描写時に呼び出�
 ### 要素を追加を押す
 <img width="516" height="405" alt="image" src="https://github.com/user-attachments/assets/8dc6c7a8-a689-44cb-b899-6bfa5c73fac3" />
 
-### 「空」をクリック、気になるエフェクト(クラス名が反映)を選択
+### 「空」をクリック、気になるクラスを選択
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3d4e8fe1-637f-415b-bef4-6665ce14570c" />
