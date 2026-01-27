@@ -25,7 +25,7 @@ WorldEnviromentに適用すると、全てのカメラの描写時に呼び出�
 <img width="930" height="741" alt="image" src="https://github.com/user-attachments/assets/0cd20f4c-a6f4-45a8-b665-1d2ed174ada9" />
 
 ## 4. WorldEnviroment - Compositor 
-###「空」をクリック
+### <空>をクリック
 <img width="1241" height="1079" alt="image" src="https://github.com/user-attachments/assets/48ef1c77-facc-4464-8d9e-0677913fc6ca" />
 
 ### 新しいのを作る
